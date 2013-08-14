@@ -118,7 +118,7 @@ Once done, copy the mon_collector.py to /usr/local/bin and test it ::
 
    sudo -u zabbix mon_collector.py
    
-if this rund with no errors, check tat you have the LOGDIR_BASE/PG_HOST/PG_PORT/latest file.
+if this runs with no errors, check that you have the LOGDIR_BASE/PG_HOST/PG_PORT/latest file.
 
 if this is also ok generate the user parameters for zabbix
 
